@@ -72,9 +72,9 @@ body {
     width: auto;
     margin: .5rem 5%;
     
-    float: right; /* float allows a logo to move in various directions */
+     /* float allows a logo to move in various directions */
     
-    margin: .5rem auto; /*to center logo */
+    
 }
 
 article { 
